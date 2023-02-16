@@ -1,0 +1,15 @@
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\obj\Debug\net6.0\Segunda parte Bases de datos (B1).csproj.AssemblyReference.cache
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\obj\Debug\net6.0\Segunda parte Bases de datos (B1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\obj\Debug\net6.0\Segunda parte Bases de datos (B1).AssemblyInfoInputs.cache
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\obj\Debug\net6.0\Segunda parte Bases de datos (B1).AssemblyInfo.cs
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\obj\Debug\net6.0\Segunda parte Bases de datos (B1).csproj.CoreCompileInputs.cache
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\bin\Debug\net6.0\Segunda parte Bases de datos (B1).exe
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\bin\Debug\net6.0\Segunda parte Bases de datos (B1).deps.json
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\bin\Debug\net6.0\Segunda parte Bases de datos (B1).runtimeconfig.json
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\bin\Debug\net6.0\Segunda parte Bases de datos (B1).dll
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\bin\Debug\net6.0\Segunda parte Bases de datos (B1).pdb
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\obj\Debug\net6.0\Segunda parte Bases de datos (B1).dll
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\obj\Debug\net6.0\refint\Segunda parte Bases de datos (B1).dll
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\obj\Debug\net6.0\Segunda parte Bases de datos (B1).pdb
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\obj\Debug\net6.0\Segunda parte Bases de datos (B1).genruntimeconfig.cache
+C:\Users\Borja\Desktop\Examen Bases de datos segunda evaluación\Segunda parte Bases de datos (B1)\Segunda parte Bases de datos (B1)\obj\Debug\net6.0\ref\Segunda parte Bases de datos (B1).dll
